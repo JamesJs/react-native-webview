@@ -69,7 +69,7 @@ class MyWebComponent extends Component {
 }
 ```
 
-Para mais informações, leia a [API Reference](./docs/Reference.md) e o [Guia](./docs/Guide.md). Se você está interessado em contribuir, confira o [Guia de contribuição](./docs/Contributing.md).
+Para mais informações, leia a [API Reference](./docs/Reference.md) e o [Guia](https://github.com/react-native-community/react-native-webview/blob/master/docs/Guide.md). Se você está interessado em contribuir, confira o [Guia de contribuição](./docs/Contributing.md).
 
 ## Problemas comuns
 
